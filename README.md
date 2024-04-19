@@ -25,3 +25,10 @@ $ aws configure
 
 $ aws configure --profile boto3
 ```
+
+API Calls
+
+* Client (Low level API)
+* Resources (High level API)
+* Paginators
+* Waiters
